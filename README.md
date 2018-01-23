@@ -4,5 +4,5 @@ This is an example of how to make a document using LaTex formatting. I downloade
 
 ## Source
 [1] Installation tutorial from https://www.latex-tutorial.com/</br>
-[2] Formatting inspiration from https://github.com/RoboCupAtHome/RuleBook and http://downloads.bensresearch.com/Git.pdf
+[2] Formatting inspiration from https://github.com/RoboCupAtHome/RuleBook and http://downloads.bensresearch.com/Git.pdf</br>
 [3] Full tutorial from https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf
